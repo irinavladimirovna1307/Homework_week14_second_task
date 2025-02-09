@@ -343,7 +343,7 @@ a {
 
 body {
   font-family: "Arial", sans-serif;
-  background: url("https://st2.depositphotos.com/1031174/5314/i/450/depositphotos_53143483-stock-photo-film-strips.jpg") no-repeat center center fixed;
+  background: url("../../image/background.jpeg") no-repeat center center fixed;
   background-size: cover;
   color: #333;
   margin: 0;
